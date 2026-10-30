@@ -41,7 +41,7 @@ This software is the quickest processing option listed in this document.
 This tool is ideal for objects where all sides of the objects must be scanned accurately since this allows users to change the orientation of the object during the scan by allowing a supplementary scan. 
 
 1.  If you haven’t already, please [download and install](https://www.qlone.pro){:target="_blank"} Qlone on your iPhone.
-2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](http://bit.ly/2FV4mG9){:target="_blank"} your own scanning mat.
+2.  Pick up one of the provided checkered scanning mats (like the one pictured above right). If you are at home you can [download and print](https://docs.wixstatic.com/ugd/0dc13a_00f1c793e9274ea4897766276c116ca1.pdf){:target="_blank"} your own scanning mat.
 3.  Scan a small object (less than 10 x 10 cm):
     
     <img src="images/basics/3.png" alt="A R dome" style="float:right;width:300px;">
